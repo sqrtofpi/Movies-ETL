@@ -6,6 +6,9 @@ __pycache__/
 Apple Files
 .DS_Store
 
+Configuration File
+config.py
+
 Large CSV Files
 ratings.csv
 movies_metadata.csv
