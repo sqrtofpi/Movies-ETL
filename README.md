@@ -1,5 +1,5 @@
 # Movies; Extract, Transform, and Load (ETL)
-Module 8:  ETL - Extract, Transform, Load [ETL to SQL File](https://github.com/sqrtofpi/Movies-ETL/blob/3a94fabea0080cd86e1f8f7531a8ab1803bbca3e/ETL_create_database.ipynb
+Module 8:  ETL - Extract, Transform, Load [ETL to SQL File](https://github.com/sqrtofpi/Movies-ETL/blob/3a94fabea0080cd86e1f8f7531a8ab1803bbca3e/ETL_create_database.ipynb)
 
 ## Purpose
 
